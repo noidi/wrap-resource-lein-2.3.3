@@ -1,4 +1,4 @@
-# Correct behavior of wrap-resources with Leiningen 2.3.2
+# Correct behavior of wrap-resource with Leiningen 2.3.2
 
     $ lein upgrade 2.3.2
     $ lein do clean, uberjar
@@ -12,7 +12,7 @@
     
     Hello World!
 
-# Incorrect behavior of wrap-resources with Leiningen 2.3.2
+# Incorrect behavior of wrap-resource with Leiningen 2.3.2
 
     $ lein upgrade 2.3.3
     $ lein do clean, uberjar
